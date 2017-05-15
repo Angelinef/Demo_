@@ -6,7 +6,7 @@ import ij.process.FloatProcessor;
 import ij.process.ImageConverter;
 import ij.*;
   
-    
+       
 public class Demo_he_ implements PlugIn {
 
 	public void run(String arg) {
